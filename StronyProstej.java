@@ -13,11 +13,6 @@ public class StronyProstej {
         return((double)(yb-ya)/(double)(xb-xa));
     }
     
-    static void przymierzDoProstej ()
-    {
-        
-    }
-    
     public static void main(String[] args) {
         Scanner load = new Scanner(System.in);
         
